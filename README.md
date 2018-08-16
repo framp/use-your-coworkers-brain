@@ -1,5 +1,11 @@
 ## Use your coworkers' brain
 
+### Slides
+Slides with transcript: http://framp.me/use-your-coworkers-brain/#/0?presenter&timer
+Just slides: http://framp.me/use-your-coworkers-brain/
+
+### Content
+
 Recently, I read a book that [Maurizio](http://sithmel.blogspot.com/) recommended called ["Turn the ship around"](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking/dp/1591846404) by David Marquet.
 It's a great story about the perils of a captain of the us navy who challenged what was the leadership status quo - I'm the captain, I give orders, I've all the responsibility, you obey - and gradually pushed down power to the entire workforce.
 
@@ -26,19 +32,19 @@ This has, at least, 3 issues:
  - The leader is overworked
  - The workforce is not empowered, unhappy, and doesn't care about their iob
 
-# We're slower and more error prone
+#### We're slower and more error prone
 Because we have only one brain doing the majority of the work, we can't come up with ideas as quick as we could if multiple people were thinking.
 The feedback that a leader is getting tend to be formal and perfect - because employees want to show their boss they did a good job. Translated: it means that employees are wasting company time embellishing reports for no real benefit.
 Another thing is, because the information are being parsed by just one individual we don't have a chance to recover in case of error; there is no-one checking the thought process. 
 This is one of the reasons why, for example, pairing (or a team wide planning session) is more effective than solo work when there are decisions to be made (should we use this 3rd party api or write the code?) and it's progressively less useful when things are small and certain (we need to fix the padding on the submit button).
 
-# The leader is overworked
+#### The leader is overworked
 This is obviously bad for the leader and for whoever is unlucky enough to have to deal with him.
 Having to deal with unhappy people is not great and it's hard to endure for long. That's pretty much why I don't work in healthcare. This on the long term, can drive morale down and push valid team members to leave. 
 Another reason is that shifting the load on one person means that as soon as that one leaves the team, the performance of the team will vary significantly.
 This is, unjustly, a reason of pride for some top down leaders, who convince themselves they're indispensable for the team to deliver.
 
-# The workforce is not empowered, unhappy, and doesn't care
+#### The workforce is not empowered, unhappy, and doesn't care
 The leader in our example communicates that he doesn't trust and doesn't value his team ideas. He's basically saying he doesn't need thinking people but robots, it's just that technology is too slow in catching up.
 This is a very powerful way to take a team of motivated and effective people and transform them mindless zombies that just execute what they've been told to do and clock off for the day.
 This translate to lower performance from the team, and not being able to recover errors.
@@ -96,7 +102,7 @@ Even though finding the right way to push power down is hard, we can all try to 
 That's why I want to finish the presentation with a few examples of how things could be improved in our daily job and why. Again I would appreciate you thinking along with me and contributing some ideas at the end.
 To keep in spirit, these examples are sourced from things I've seen leaders doing, things I did myself but also stories I've heard chatting with people, behind a screen or behind a pint. Other people brains are a great source of stories.
 
-Examples:
+#### Examples:
 - You're leading a kick off, the business states the problem to solve. Your team members don't say a word, so you start talking and answering all the business concerns.
 What's wrong?  You lost an opportunity to make your team members feel valuable and you deprived them of the chanche to come up with a solution and make decisions. They weren't talking because they were used to sit in meeting like this waiting for you to talk.
 What to do? If no-one wants to say something, point at someone in particular and ask them if they have an idea.
