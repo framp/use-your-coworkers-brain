@@ -1,8 +1,8 @@
 ## Use your coworkers' brain
 
 ### Slides
-Slides with transcript: http://framp.me/use-your-coworkers-brain/#/0?presenter&timer
-Just slides: http://framp.me/use-your-coworkers-brain/
+ - Slides: http://framp.me/use-your-coworkers-brain/
+ - Slides with transcript: http://framp.me/use-your-coworkers-brain/#/0?presenter&timer
 
 ### Content
 
